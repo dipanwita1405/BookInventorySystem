@@ -13,10 +13,7 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-/**
- *
- * @author MeGa
- */
+
 @WebServlet("/delete_old_book")
 public class DeleteUserOldBookServlet extends HttpServlet {
 
